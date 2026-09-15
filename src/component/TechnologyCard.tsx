@@ -52,7 +52,7 @@ const TechnologyCard = ({
         className={`mt-4 w-full rounded-lg py-3 text-sm font-semibold transition ${
           isAdded
             ? "cursor-not-allowed bg-gray-200 text-gray-500"
-            : "bg-gray-900 text-white hover:bg-gray-800"
+            : "brand-gradient text-white hover:opacity-90"
         }`}
       >
         {isAdded ? "✓ Added to Stack" : "Add to Stack"}

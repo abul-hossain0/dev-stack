@@ -8,9 +8,7 @@ const Banner = () => {
           <h1 className="text-4xl font-bold leading-tight text-gray-900 sm:text-5xl lg:text-6xl">
             Build Your Ideal
             <br />
-            <span className="bg-gradient-to-r from-orange-500 via-pink-500 to-purple-600 bg-clip-text text-transparent">
-              Development Stack
-            </span>
+            <span className="brand-gradient-text">Development Stack</span>
           </h1>
 
           <p className="mt-6 max-w-xl text-base leading-7 text-gray-500 sm:text-lg">
@@ -22,7 +20,7 @@ const Banner = () => {
           <div className="mt-8 flex flex-wrap gap-3">
             <a
               href="#technologies"
-              className="rounded-lg bg-gradient-to-r from-orange-500 to-pink-500 px-5 py-3 text-sm font-semibold text-white transition hover:opacity-90"
+              className="brand-gradient rounded-lg px-5 py-3 text-sm font-semibold text-white transition hover:opacity-90"
             >
               Explore Technologies
             </a>
