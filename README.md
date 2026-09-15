@@ -26,11 +26,3 @@ A modern and responsive Development Stack Builder built with React, TypeScript, 
 ```bash
 npm install
 
-▶️ Run Locally
-npm run dev
-
-👨‍💻 Author
-
-Abul Hossain
-
-Next.js & TypeScript Leaner
